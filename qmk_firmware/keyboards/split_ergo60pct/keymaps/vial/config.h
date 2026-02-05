@@ -8,3 +8,4 @@
 #define MK_3_SPEED
 #define MK_MOMENTARY_ACCEL
 #define MK_COMBINED
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8   // 例：8レイヤー
