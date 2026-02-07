@@ -16,4 +16,4 @@
 #define MK_C_OFFSET_1 1
 #define MK_C_INTERVAL_1 8
 #define MK_C_OFFSET_2 1
-#define MK_C_INTERVAL_2 2
+#define MK_C_INTERVAL_2 1
