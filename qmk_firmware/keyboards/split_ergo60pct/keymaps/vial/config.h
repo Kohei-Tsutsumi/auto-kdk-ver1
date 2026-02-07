@@ -10,6 +10,12 @@
 #define MK_COMBINED
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8   // 例：8レイヤー
 
+// config.h
+#define MOUSEKEY_DELAY 0
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_MOVE_DELTA 5
+#define MOUSEKEY_MAX_SPEED 10
+#define MOUSEKEY_TIME_TO_MAX 150
 
 #define MK_C_OFFSET_0 1
 #define MK_C_INTERVAL_0 32
