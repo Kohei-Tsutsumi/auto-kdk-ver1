@@ -6,7 +6,7 @@
 #define VIAL_COMBO_ENTRIES 8
 #define PICO_FLASH_SIZE_BYTES (1 * 1024 * 1024)
 #define MK_3_SPEED
-#define MK_MOMENTARY_ACCEL
+// #define MK_MOMENTARY_ACCEL
 #define MK_COMBINED
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8   // 例：8レイヤー
 
