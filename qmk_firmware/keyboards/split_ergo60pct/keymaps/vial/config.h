@@ -9,3 +9,11 @@
 #define MK_MOMENTARY_ACCEL
 #define MK_COMBINED
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8   // 例：8レイヤー
+
+
+#define MK_C_OFFSET_0 1
+#define MK_C_INTERVAL_0 32
+#define MK_C_OFFSET_1 1
+#define MK_C_INTERVAL_1 8
+#define MK_C_OFFSET_2 1
+#define MK_C_INTERVAL_2 2
